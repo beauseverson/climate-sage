@@ -1,2 +1,10 @@
 .env
 *.pyc
+.github/
+__pycache__/
+venv/
+env/
+.vscode/
+.DS_Store
+.idea/
+*.sqlite3
